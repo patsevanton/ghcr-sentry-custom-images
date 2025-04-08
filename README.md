@@ -1,2 +1,1 @@
 # ghcr-sentry-custom-images
-
